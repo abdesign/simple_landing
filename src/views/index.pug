@@ -1,0 +1,70 @@
+include template/header.pug
+  header
+    .bg
+      .container
+        .row
+          .col-lg-12.text-center     
+            img(data-src="img/hero_001.jpg" alt="Save Big on All Lights While Celebrating the 4th!")
+
+  section#featured
+    .container
+      .row
+        .col-lg-12.text-center  
+          h1 Celebrate Independence Day with Our Best Selling Lights and Accessories!
+          h2 Choose from Our Most Popular Products and Get 20% Off
+      .row#featured-products
+
+        
+  section#promo
+    .container
+      .row
+        .col-lg-12.text-center  
+          img(src="img/hero_002.jpg"  alt="Today Only All Light Product Are on Sale!" )       
+
+  section#catalog
+    .container
+      .row
+        .col-lg-12.text-center  
+          h1 Want More? Browse Our Entire Catalog of Lights!
+          h2 Browse the Catalog Below and Save 20%
+
+  section#catalog-page
+    .container
+      .row
+        .col-lg-12
+          ul.pagination
+            li
+              a(href="#")
+                span(aria-hdden="true") 
+                  i.fa.fa-angle-double-left
+                span.sr-only Prev
+            li.hidden-xs 
+              a(href="#") 1
+            li.hidden-xs
+              a(href="#") 2
+            li.hidden-xs
+              a(href="#") 3
+            li.hidden-xs
+              a(href="#") 4
+            li.hidden-xs
+              a(href="#") 5
+            li.hidden-xs
+              a(href="#") 6
+            li.hidden-xs
+              a(href="#") 8
+            li.hidden-xs
+              a(href="#") 9
+            li.hidden-xs
+              a(href="#") 10  
+            li
+              a(href="#")
+                span(aria-hidden="true")
+                  i.fa.fa-angle-double-right
+                span.sr-only Next
+
+              
+
+
+
+  include template/footer.pug
+
