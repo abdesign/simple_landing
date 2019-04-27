@@ -11,19 +11,10 @@ Must use CSS in someway 
 Include an interactive element 
 
 ---
-## Answers to Questions
-1. Does the landing page need to include the current template and navigation from the current site, or is the objective to create a sales funnel landing page where we direct the customer to purchase only the subset of products (lights) that are currently on sale for the promotion? 
-  * The page is for the subset of products that are currently on sale as a part of the promotion.
-
-
-2. Are there any high-res photographs that I could have access to for the truck stops, and/or vector graphics of the logo? If this is too much trouble for this exercise, I can improvise and still develop something that still looks good. 
-  * Do the best you can with what you can get your hands on, really looking at design and code. We understand you are working with lower res graphics.
-
----
 
 # Project Synopsis Based Off of Provided Details
 
-Create a single landing page consisting of interactive elements promoting a 20% Off July 4th Special. Product information and branding can be referenced at iowa80.com. Development will be completed based upon the assumtion that user traffic will be driven to the landing page, and we want to capture sales through a simple funnel by not allowing users to divert their behavior from the current promotion. 
+Create a single landing page consisting of interactive elements promoting a 20% Off July 4th Special. 
 
 ### Project Outline
 
